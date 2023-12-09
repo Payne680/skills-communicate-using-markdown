@@ -25,3 +25,6 @@ Write your commit message on what you are currently working on
 $ git push origin "<Current branch"
 Push your changes to your remote repository
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
